@@ -1,0 +1,9 @@
+Esercitazione 2 - Biblioteca
+Scenario: gestire 1000 libri con autore, titolo, anno, editore e numero di pagine.
+
+Branch richiesti:
+
+features/classes/libro: classe Libro e metodo readingTime.
+features/classes/biblioteca: classe Biblioteca, inserimento, ricerca, conteggio.
+master: interfaccia e test delle classi.
+Attivita GitHub richieste: almeno due commit, confronto con git diff, stato con git status, merge su master, push su GitHub, clone in una nuova cartella.
